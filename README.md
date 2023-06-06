@@ -13,7 +13,7 @@
 🎓 &nbsp;I'm currently studying Mathematics at the University of Sebelas Maret.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Fullstack Web.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at taqiyyaghazi@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at shobarudin67@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio Web](https://taqiyyaghazi.github.io/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
